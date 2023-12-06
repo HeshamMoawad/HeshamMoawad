@@ -3,7 +3,8 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/language-python-%230558b0)&nbsp;
 ![JavaScript](https://img.shields.io/badge/language-javascript-%23EFDA4D)&nbsp;
-
+![Html](https://img.shields.io/badge/language-Html-%23f56f42)&nbsp;
+![Css](https://img.shields.io/badge/language-CSS-%231f65f0)&nbsp;
 
 ### Frameworks
 
