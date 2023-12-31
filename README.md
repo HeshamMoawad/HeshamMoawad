@@ -8,6 +8,7 @@
 
 ### Frameworks
 
+![React](https://img.shields.io/badge/React-24292e?style=flat-square&logo=React&labelColor=24292e&color=474d56)&nbsp;
 ![PyQt](https://img.shields.io/badge/PyQt5-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
 ![Django](https://img.shields.io/badge/Django-24292e?style=flat-square&logo=Django&labelColor=24292e&color=474d56)&nbsp;
 
