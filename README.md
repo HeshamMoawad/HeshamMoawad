@@ -17,7 +17,7 @@
 
 * Backend Development
     - Build robust Restful APIs using [Django Rest Framework](https://www.django-rest-framework.org/)
-    - Exploring Websockets capabilities (currently in the learning phase)
+    - Exploring Websockets capabilities
 
 * Frontend Development
     - Craft engaging websites with [React](https://react.dev/)
